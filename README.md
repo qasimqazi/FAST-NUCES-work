@@ -203,11 +203,11 @@ For collaborations or permissions, contact:
 
 | **Courses** | **Slides** | **Quizzes** | **Assignments** | **Past Papers** |
 |-------------|------------|-------------|-----------------|-----------------|
-| **Machine Learning** | [Slides](./Semester-6/Course/ML/Slides) | [Quizzes](./Semester-6/Course/ML/Quizzes) | [Assignments](./Semester-6/Course/ML/Assignments) | [Past Papers](./Semester-6/Course/ML/Past-Papers) |
-| **Mobile Computing** | [Slides](./Semester-6/Course/Mobile/Slides) | [Quizzes](./Semester-6/Course/Mobile/Quizzes) | [Assignments](./Semester-6/Course/Mobile/Assignments) | [Past Papers](./Semester-6/Course/Mobile/Past-Papers) |
-| **Parallel Computing** | [Slides](./Semester-6/Course/Parallel/Slides) | [Quizzes](./Semester-6/Course/Parallel/Quizzes) | [Assignments](./Semester-6/Course/Parallel/Assignments) | [Past Papers](./Semester-6/Course/Parallel/Past-Papers) |
-| **Information Security** | [Slides](./Semester-6/Course/InfoSec/Slides) | [Quizzes](./Semester-6/Course/InfoSec/Quizzes) | [Assignments](./Semester-6/Course/InfoSec/Assignments) | [Past Papers](./Semester-6/Course/InfoSec/Past-Papers) |
-| **Big Data** | [Slides](./Semester-6/Course/BigData/Slides) | [Quizzes](./Semester-6/Course/BigData/Quizzes) | [Assignments](./Semester-6/Course/BigData/Assignments) | [Past Papers](./Semester-6/Course/BigData/Past-Papers) |
+| **AI2002-Artificial Intelligence** | [Slides](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%206/AI2002-Artificial%20Intelligence/COURSE/Slides) | [Quizzes](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%206/AI2002-Artificial%20Intelligence/COURSE/Quizez) | [Assignments](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%206/AI2002-Artificial%20Intelligence/COURSE/ASSIGNMENTS) | [Past Papers](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%206/AI2002-Artificial%20Intelligence/COURSE/PastPapers) |
+| **CS4031-Compiler Construction** | [Slides](./Semester-6/Course/Mobile/Slides) | [Quizzes](./Semester-6/Course/Mobile/Quizzes) | [Assignments](./Semester-6/Course/Mobile/Assignments) | [Past Papers](./Semester-6/Course/Mobile/Past-Papers) |
+| **CS3006-Parallel and Distributed Computing** | [Slides](./Semester-6/Course/Parallel/Slides) | [Quizzes](./Semester-6/Course/Parallel/Quizzes) | [Assignments](./Semester-6/Course/Parallel/Assignments) | [Past Papers](./Semester-6/Course/Parallel/Past-Papers) |
+| **CS3009-Software Engineering** | [Slides](./Semester-6/Course/InfoSec/Slides) | [Quizzes](./Semester-6/Course/InfoSec/Quizzes) | [Assignments](./Semester-6/Course/InfoSec/Assignments) | [Past Papers](./Semester-6/Course/InfoSec/Past-Papers) |
+| **WEB** | [Slides](./Semester-6/Course/BigData/Slides) | [Quizzes](./Semester-6/Course/BigData/Quizzes) | [Assignments](./Semester-6/Course/BigData/Assignments) | [Past Papers](./Semester-6/Course/BigData/Past-Papers) |
 
 ### **Labs – Semester 6**
 | **Lab** | **Lab Manuals** | **Lab Project** |
