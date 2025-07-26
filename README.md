@@ -113,11 +113,13 @@ For collaborations or permissions, contact:
 
 | **Courses** | **Slides** | **Quizzes** | **Assignments** | **Past Papers** |
 |-------------|------------|-------------|-----------------|-----------------|
-| **PF** | [Slides](./Semester-1/Course/PF/Slides) | [Quizzes](./Semester-1/Course/PF/Quizzes) | [Assignments](./Semester-1/Course/PF/Assignments) | [Past Papers](./Semester-1/Course/PF/Past-Papers) |
-| **ICT** | [Slides](./Semester-1/Course/ICT/Slides) | [Quizzes](./Semester-1/Course/ICT/Quizzes) | [Assignments](./Semester-1/Course/ICT/Assignments) | [Past Papers](./Semester-1/Course/ICT/Past-Papers) |
-| **Calculus** | [Slides](./Semester-1/Course/Calculus/Slides) | [Quizzes](./Semester-1/Course/Calculus/Quizzes) | [Assignments](./Semester-1/Course/Calculus/Assignments) | [Past Papers](./Semester-1/Course/Calculus/Past-Papers) |
-| **English** | [Slides](./Semester-1/Course/English/Slides) | [Quizzes](./Semester-1/Course/English/Quizzes) | [Assignments](./Semester-1/Course/English/Assignments) | [Past Papers](./Semester-1/Course/English/Past-Papers) |
-| **Pakistan Studies** | [Slides](./Semester-1/Course/Pakistan-Studies/Slides) | [Quizzes](./Semester-1/Course/Pakistan-Studies/Quizzes) | [Assignments](./Semester-1/Course/Pakistan-Studies/Assignments) | [Past Papers](./Semester-1/Course/Pakistan-Studies/Past-Papers) |
+| **NS1001-Applied Physics** | [Slides](./Semester-1/Course/PF/Slides) | [Quizzes](./Semester-1/Course/PF/Quizzes) | [Assignments](./Semester-1/Course/PF/Assignments) | [Past Papers](./Semester-1/Course/PF/Past-Papers) |
+| **MT1003-Calculus and Analytical Geometry** | [Slides](./Semester-1/Course/ICT/Slides) | [Quizzes](./Semester-1/Course/ICT/Quizzes) | [Assignments](./Semester-1/Course/ICT/Assignments) | [Past Papers](./Semester-1/Course/ICT/Past-Papers) |
+| **SS1004-English Composition and Comprehension** | [Slides](./Semester-1/Course/Calculus/Slides) | [Quizzes](./Semester-1/Course/Calculus/Quizzes) | [Assignments](./Semester-1/Course/Calculus/Assignments) | [Past Papers](./Semester-1/Course/Calculus/Past-Papers) |
+| **CL1000-Introduction to Information and Communication Technology** | [Slides](./Semester-1/Course/English/Slides) | [Quizzes](./Semester-1/Course/English/Quizzes) | [Assignments](./Semester-1/Course/English/Assignments) | [Past Papers](./Semester-1/Course/English/Past-Papers) |
+| **SS1003-Pakistan Studies** | [Slides](./Semester-1/Course/Pakistan-Studies/Slides) | [Quizzes](./Semester-1/Course/Pakistan-Studies/Quizzes) | [Assignments](./Semester-1/Course/Pakistan-Studies/Assignments) | [Past Papers](./Semester-1/Course/Pakistan-Studies/Past-Papers) |
+| **CS1002-Programming Fundamentals** | [Slides](./Semester-1/Course/Pakistan-Studies/Slides) | [Quizzes](./Semester-1/Course/Pakistan-Studies/Quizzes) | [Assignments](./Semester-1/Course/Pakistan-Studies/Assignments) | [Past Papers](./Semester-1/Course/Pakistan-Studies/Past-Papers) |
+
 
 ### **Labs – Semester 1**
 | **Lab** | **Lab Manuals** | **Lab Project** |
@@ -131,11 +133,11 @@ For collaborations or permissions, contact:
 
 | **Courses** | **Slides** | **Quizzes** | **Assignments** | **Past Papers** |
 |-------------|------------|-------------|-----------------|-----------------|
-| **OOP** | [Slides](./Semester-2/Course/OOP/Slides) | [Quizzes](./Semester-2/Course/OOP/Quizzes) | [Assignments](./Semester-2/Course/OOP/Assignments) | [Past Papers](./Semester-2/Course/OOP/Past-Papers) |
-| **DLD** | [Slides](./Semester-2/Course/DLD/Slides) | [Quizzes](./Semester-2/Course/DLD/Quizzes) | [Assignments](./Semester-2/Course/DLD/Assignments) | [Past Papers](./Semester-2/Course/DLD/Past-Papers) |
-| **Linear Algebra** | [Slides](./Semester-2/Course/Linear-Algebra/Slides) | [Quizzes](./Semester-2/Course/Linear-Algebra/Quizzes) | [Assignments](./Semester-2/Course/Linear-Algebra/Assignments) | [Past Papers](./Semester-2/Course/Linear-Algebra/Past-Papers) |
-| **Communication Skills** | [Slides](./Semester-2/Course/Communication-Skills/Slides) | [Quizzes](./Semester-2/Course/Communication-Skills/Quizzes) | [Assignments](./Semester-2/Course/Communication-Skills/Assignments) | [Past Papers](./Semester-2/Course/Communication-Skills/Past-Papers) |
-| **Probability** | [Slides](./Semester-2/Course/Probability/Slides) | [Quizzes](./Semester-2/Course/Probability/Quizzes) | [Assignments](./Semester-2/Course/Probability/Assignments) | [Past Papers](./Semester-2/Course/Probability/Past-Papers) |
+| **SS1008-Communication and Presentation Skills** | [Slides](./Semester-2/Course/OOP/Slides) | [Quizzes](./Semester-2/Course/OOP/Quizzes) | [Assignments](./Semester-2/Course/OOP/Assignments) | [Past Papers](./Semester-2/Course/OOP/Past-Papers) |
+| **MT1006-Differential Equations** | [Slides](./Semester-2/Course/DLD/Slides) | [Quizzes](./Semester-2/Course/DLD/Quizzes) | [Assignments](./Semester-2/Course/DLD/Assignments) | [Past Papers](./Semester-2/Course/DLD/Past-Papers) |
+| **EE1005-Digital Logic Design** | [Slides](./Semester-2/Course/Linear-Algebra/Slides) | [Quizzes](./Semester-2/Course/Linear-Algebra/Quizzes) | [Assignments](./Semester-2/Course/Linear-Algebra/Assignments) | [Past Papers](./Semester-2/Course/Linear-Algebra/Past-Papers) |
+| **SS1002-Islamic Studies/Ethics** | [Slides](./Semester-2/Course/Communication-Skills/Slides) | [Quizzes](./Semester-2/Course/Communication-Skills/Quizzes) | [Assignments](./Semester-2/Course/Communication-Skills/Assignments) | [Past Papers](./Semester-2/Course/Communication-Skills/Past-Papers) |
+| **CS1004-Object Oriented Programming** | [Slides](./Semester-2/Course/Probability/Slides) | [Quizzes](./Semester-2/Course/Probability/Quizzes) | [Assignments](./Semester-2/Course/Probability/Assignments) | [Past Papers](./Semester-2/Course/Probability/Past-Papers) |
 
 ### **Labs – Semester 2**
 | **Lab** | **Lab Manuals** | **Lab Project** |
@@ -149,11 +151,11 @@ For collaborations or permissions, contact:
 
 | **Courses** | **Slides** | **Quizzes** | **Assignments** | **Past Papers** |
 |-------------|------------|-------------|-----------------|-----------------|
-| **Data Structures** | [Slides](./Semester-3/Course/DS/Slides) | [Quizzes](./Semester-3/Course/DS/Quizzes) | [Assignments](./Semester-3/Course/DS/Assignments) | [Past Papers](./Semester-3/Course/DS/Past-Papers) |
-| **DBMS** | [Slides](./Semester-3/Course/DBMS/Slides) | [Quizzes](./Semester-3/Course/DBMS/Quizzes) | [Assignments](./Semester-3/Course/DBMS/Assignments) | [Past Papers](./Semester-3/Course/DBMS/Past-Papers) |
-| **COAL** | [Slides](./Semester-3/Course/COAL/Slides) | [Quizzes](./Semester-3/Course/COAL/Quizzes) | [Assignments](./Semester-3/Course/COAL/Assignments) | [Past Papers](./Semester-3/Course/COAL/Past-Papers) |
-| **Discrete Math** | [Slides](./Semester-3/Course/Discrete-Math/Slides) | [Quizzes](./Semester-3/Course/Discrete-Math/Quizzes) | [Assignments](./Semester-3/Course/Discrete-Math/Assignments) | [Past Papers](./Semester-3/Course/Discrete-Math/Past-Papers) |
-| **Statistics** | [Slides](./Semester-3/Course/Statistics/Slides) | [Quizzes](./Semester-3/Course/Statistics/Quizzes) | [Assignments](./Semester-3/Course/Statistics/Assignments) | [Past Papers](./Semester-3/Course/Statistics/Past-Papers) |
+| **EE2003-Computer Organization and Assembly Language** | [Slides](./Semester-3/Course/DS/Slides) | [Quizzes](./Semester-3/Course/DS/Quizzes) | [Assignments](./Semester-3/Course/DS/Assignments) | [Past Papers](./Semester-3/Course/DS/Past-Papers) |
+| **CS2001-Data Structures** | [Slides](./Semester-3/Course/DBMS/Slides) | [Quizzes](./Semester-3/Course/DBMS/Quizzes) | [Assignments](./Semester-3/Course/DBMS/Assignments) | [Past Papers](./Semester-3/Course/DBMS/Past-Papers) |
+| **CS1005-Discrete Structures** | [Slides](./Semester-3/Course/COAL/Slides) | [Quizzes](./Semester-3/Course/COAL/Quizzes) | [Assignments](./Semester-3/Course/COAL/Assignments) | [Past Papers](./Semester-3/Course/COAL/Past-Papers) |
+| **MT1004-Linear Algebra** | [Slides](./Semester-3/Course/Discrete-Math/Slides) | [Quizzes](./Semester-3/Course/Discrete-Math/Quizzes) | [Assignments](./Semester-3/Course/Discrete-Math/Assignments) | [Past Papers](./Semester-3/Course/Discrete-Math/Past-Papers) |
+| **PSYCHOLOGY** | [Slides](./Semester-3/Course/Statistics/Slides) | [Quizzes](./Semester-3/Course/Statistics/Quizzes) | [Assignments](./Semester-3/Course/Statistics/Assignments) | [Past Papers](./Semester-3/Course/Statistics/Past-Papers) |
 
 ### **Labs – Semester 3**
 | **Lab** | **Lab Manuals** | **Lab Project** |
@@ -167,11 +169,11 @@ For collaborations or permissions, contact:
 
 | **Courses** | **Slides** | **Quizzes** | **Assignments** | **Past Papers** |
 |-------------|------------|-------------|-----------------|-----------------|
-| **Algorithms** | [Slides](./Semester-4/Course/Algorithms/Slides) | [Quizzes](./Semester-4/Course/Algorithms/Quizzes) | [Assignments](./Semester-4/Course/Algorithms/Assignments) | [Past Papers](./Semester-4/Course/Algorithms/Past-Papers) |
-| **Operating Systems** | [Slides](./Semester-4/Course/OS/Slides) | [Quizzes](./Semester-4/Course/OS/Quizzes) | [Assignments](./Semester-4/Course/OS/Assignments) | [Past Papers](./Semester-4/Course/OS/Past-Papers) |
-| **Software Engineering** | [Slides](./Semester-4/Course/SE/Slides) | [Quizzes](./Semester-4/Course/SE/Quizzes) | [Assignments](./Semester-4/Course/SE/Assignments) | [Past Papers](./Semester-4/Course/SE/Past-Papers) |
-| **Computer Networks** | [Slides](./Semester-4/Course/CN/Slides) | [Quizzes](./Semester-4/Course/CN/Quizzes) | [Assignments](./Semester-4/Course/CN/Assignments) | [Past Papers](./Semester-4/Course/CN/Past-Papers) |
-| **Linear Algebra II** | [Slides](./Semester-4/Course/Linear-Algebra-II/Slides) | [Quizzes](./Semester-4/Course/Linear-Algebra-II/Quizzes) | [Assignments](./Semester-4/Course/Linear-Algebra-II/Assignments) | [Past Papers](./Semester-4/Course/Linear-Algebra-II/Past-Papers) |
+| **CS2005-Database Systems** | [Slides](./Semester-4/Course/Algorithms/Slides) | [Quizzes](./Semester-4/Course/Algorithms/Quizzes) | [Assignments](./Semester-4/Course/Algorithms/Assignments) | [Past Papers](./Semester-4/Course/Algorithms/Past-Papers) |
+| **CS2009-Design and Analysis of Algorithms** | [Slides](./Semester-4/Course/OS/Slides) | [Quizzes](./Semester-4/Course/OS/Quizzes) | [Assignments](./Semester-4/Course/OS/Assignments) | [Past Papers](./Semester-4/Course/OS/Past-Papers) |
+| **CS2006-Operating Systems** | [Slides](./Semester-4/Course/SE/Slides) | [Quizzes](./Semester-4/Course/SE/Quizzes) | [Assignments](./Semester-4/Course/SE/Assignments) | [Past Papers](./Semester-4/Course/SE/Past-Papers) |
+| **MT2005-Probability and Statistics** | [Slides](./Semester-4/Course/CN/Slides) | [Quizzes](./Semester-4/Course/CN/Quizzes) | [Assignments](./Semester-4/Course/CN/Assignments) | [Past Papers](./Semester-4/Course/CN/Past-Papers) |
+| **Marketing Management** | [Slides](./Semester-4/Course/Linear-Algebra-II/Slides) | [Quizzes](./Semester-4/Course/Linear-Algebra-II/Quizzes) | [Assignments](./Semester-4/Course/Linear-Algebra-II/Assignments) | [Past Papers](./Semester-4/Course/Linear-Algebra-II/Past-Papers) |
 
 ### **Labs – Semester 4**
 | **Lab** | **Lab Manuals** | **Lab Project** |
@@ -185,11 +187,11 @@ For collaborations or permissions, contact:
 
 | **Courses** | **Slides** | **Quizzes** | **Assignments** | **Past Papers** |
 |-------------|------------|-------------|-----------------|-----------------|
-| **Artificial Intelligence** | [Slides](./Semester-5/Course/AI/Slides) | [Quizzes](./Semester-5/Course/AI/Quizzes) | [Assignments](./Semester-5/Course/AI/Assignments) | [Past Papers](./Semester-5/Course/AI/Past-Papers) |
-| **Compiler Construction** | [Slides](./Semester-5/Course/Compiler/Slides) | [Quizzes](./Semester-5/Course/Compiler/Quizzes) | [Assignments](./Semester-5/Course/Compiler/Assignments) | [Past Papers](./Semester-5/Course/Compiler/Past-Papers) |
-| **Web Engineering** | [Slides](./Semester-5/Course/Web/Slides) | [Quizzes](./Semester-5/Course/Web/Quizzes) | [Assignments](./Semester-5/Course/Web/Assignments) | [Past Papers](./Semester-5/Course/Web/Past-Papers) |
-| **Software Design** | [Slides](./Semester-5/Course/SD/Slides) | [Quizzes](./Semester-5/Course/SD/Quizzes) | [Assignments](./Semester-5/Course/SD/Assignments) | [Past Papers](./Semester-5/Course/SD/Past-Papers) |
-| **Database II** | [Slides](./Semester-5/Course/DB2/Slides) | [Quizzes](./Semester-5/Course/DB2/Quizzes) | [Assignments](./Semester-5/Course/DB2/Assignments) | [Past Papers](./Semester-5/Course/DB2/Past-Papers) |
+| **CS3001-Computer Networks** | [Slides](./Semester-5/Course/AI/Slides) | [Quizzes](./Semester-5/Course/AI/Quizzes) | [Assignments](./Semester-5/Course/AI/Assignments) | [Past Papers](./Semester-5/Course/AI/Past-Papers) |
+| **CS2008-Numerical Computing** | [Slides](./Semester-5/Course/Compiler/Slides) | [Quizzes](./Semester-5/Course/Compiler/Quizzes) | [Assignments](./Semester-5/Course/Compiler/Assignments) | [Past Papers](./Semester-5/Course/Compiler/Past-Papers) |
+| **CS3004-Software Design and Analysis** | [Slides](./Semester-5/Course/Web/Slides) | [Quizzes](./Semester-5/Course/Web/Quizzes) | [Assignments](./Semester-5/Course/Web/Assignments) | [Past Papers](./Semester-5/Course/Web/Past-Papers) |
+| **SS2007-Technical and Business Writing** | [Slides](./Semester-5/Course/SD/Slides) | [Quizzes](./Semester-5/Course/SD/Quizzes) | [Assignments](./Semester-5/Course/SD/Assignments) | [Past Papers](./Semester-5/Course/SD/Past-Papers) |
+| **CS3005-Theory of Automata** | [Slides](./Semester-5/Course/DB2/Slides) | [Quizzes](./Semester-5/Course/DB2/Quizzes) | [Assignments](./Semester-5/Course/DB2/Assignments) | [Past Papers](./Semester-5/Course/DB2/Past-Papers) |
 
 ### **Labs – Semester 5**
 | **Lab** | **Lab Manuals** | **Lab Project** |
