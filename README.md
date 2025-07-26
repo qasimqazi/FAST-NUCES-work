@@ -28,16 +28,18 @@ The repository is organized semester-wise, with each semester containing:
 ---
 
 # **📌 Quick Links to Semesters**
+
 | Semester | Courses (5+) | Labs (2) | Link |
 |----------|--------------|----------|------|
-| **Semester 1** | PF, ICT, Calculus, English, Pakistan Studies | PF Lab, ICT Lab | [Open Semester 1](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%201) |
-| **Semester 2** | OOP, DLD, Linear Algebra, Communication Skills, Probability | OOP Lab, DLD Lab | [Open Semester 2](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%202) |
-| **Semester 3** | Data Structures, COAL, Discrete Math, Stats, DBMS | DS Lab, DBMS Lab | [Open Semester 3](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%203) |
-| **Semester 4** | Algorithms, OS, SE, Linear Algebra II, CN | OS Lab, CN Lab | [Open Semester 4](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%204) |
-| **Semester 5** | AI, Compiler Construction, Web Engineering, Software Design, DB-II | AI Lab, Compiler Lab | [Open Semester 5](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%205) |
-| **Semester 6** | Mobile Computing, ML, Big Data, Info Sec, Parallel Computing | ML Lab, Web Lab | [Open Semester 6](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%206) |
-| **Semester 7** | Cloud Computing, Deep Learning, NLP, HCI, Data Mining | Cloud Lab, Data Mining Lab | [Open Semester 7](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%207) |
-| **Semester 8** | Final Year Project, Professional Practices, Electives | FYP Lab, Research Lab | [Open Semester 8](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%208) |
+| **Semester 1** | • NS1001 – Applied Physics <br> • MT1003 – Calculus & Analytical Geometry <br> • SS1004 – English Composition <br> • CL1000 – ICT <br> • SS1003 – Pakistan Studies <br> • CS1002 – Programming Fundamentals | • PF Lab <br> • ICT Lab | [Open Semester 1](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester-1) |
+| **Semester 2** | • SS1008 – Communication Skills <br> • MT1006 – Differential Equations <br> • EE1005 – Digital Logic Design <br> • SS1002 – Islamic Studies/Ethics <br> • CS1004 – Object Oriented Programming | • OOP Lab <br> • DLD Lab | [Open Semester 2](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester-2) |
+| **Semester 3** | • EE2003 – Computer Organization & Assembly Language <br> • CS2001 – Data Structures <br> • CS1005 – Discrete Structures <br> • MT1004 – Linear Algebra <br> • PSYCHOLOGY – Psychology | • DS Lab <br> • DBMS Lab | [Open Semester 3](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester-3) |
+| **Semester 4** | • CS2005 – Database Systems <br> • CS2009 – Design & Analysis of Algorithms <br> • CS2006 – Operating Systems <br> • MT2005 – Probability & Statistics <br> • MMGT – Marketing Management | • OS Lab <br> • CN Lab | [Open Semester 4](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester-4) |
+| **Semester 5** | • CS3001 – Computer Networks <br> • CS2008 – Numerical Computing <br> • CS3004 – Software Design & Analysis <br> • SS2007 – Technical & Business Writing <br> • CS3005 – Theory of Automata | • AI Lab <br> • Compiler Lab | [Open Semester 5](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester-5) |
+| **Semester 6** | • AI2002 – Artificial Intelligence <br> • CS4031 – Compiler Construction <br> • CS3006 – Parallel & Distributed Computing <br> • CS3009 – Software Engineering <br> • WEB – Web Development | • ML Lab <br> • Web Lab | [Open Semester 6](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester-6) |
+| **Semester 7** | • CS4001 – Professional Practices in IT <br> • CS3002 – Information Security <br> • NLP – Natural Language Processing <br> • CS4091 – Final Year Project – I <br> • DM – Data Mining | • Cloud Lab <br> • Data Mining Lab | [Open Semester 7](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester-7) |
+| **Semester 8** | • CS4092 – Final Year Project – II <br> • PP – Professional Practices <br> • Elective 1 <br> • Elective 2 <br> • Elective 3 | • FYP Lab <br> • Research Lab | [Open Semester 8](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester-8) |
+
 
 ---
 
