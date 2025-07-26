@@ -30,14 +30,14 @@ The repository is organized semester-wise, with each semester containing:
 # **📌 Quick Links to Semesters**
 | Semester | Courses (5+) | Labs (2) | Link |
 |----------|--------------|----------|------|
-| **Semester 1** | PF, ICT, Calculus, English, Pakistan Studies | PF Lab, ICT Lab | [Open Semester 1](./Semester-1) |
-| **Semester 2** | OOP, DLD, Linear Algebra, Communication Skills, Probability | OOP Lab, DLD Lab | [Open Semester 2](./Semester-2) |
-| **Semester 3** | Data Structures, COAL, Discrete Math, Stats, DBMS | DS Lab, DBMS Lab | [Open Semester 3](./Semester-3) |
-| **Semester 4** | Algorithms, OS, SE, Linear Algebra II, CN | OS Lab, CN Lab | [Open Semester 4](./Semester-4) |
-| **Semester 5** | AI, Compiler Construction, Web Engineering, Software Design, DB-II | AI Lab, Compiler Lab | [Open Semester 5](./Semester-5) |
-| **Semester 6** | Mobile Computing, ML, Big Data, Info Sec, Parallel Computing | ML Lab, Web Lab | [Open Semester 6](./Semester-6) |
-| **Semester 7** | Cloud Computing, Deep Learning, NLP, HCI, Data Mining | Cloud Lab, Data Mining Lab | [Open Semester 7](./Semester-7) |
-| **Semester 8** | Final Year Project, Professional Practices, Electives | FYP Lab, Research Lab | [Open Semester 8](./Semester-8) |
+| **Semester 1** | PF, ICT, Calculus, English, Pakistan Studies | PF Lab, ICT Lab | [Open Semester 1](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%201) |
+| **Semester 2** | OOP, DLD, Linear Algebra, Communication Skills, Probability | OOP Lab, DLD Lab | [Open Semester 2](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%202) |
+| **Semester 3** | Data Structures, COAL, Discrete Math, Stats, DBMS | DS Lab, DBMS Lab | [Open Semester 3](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%203) |
+| **Semester 4** | Algorithms, OS, SE, Linear Algebra II, CN | OS Lab, CN Lab | [Open Semester 4](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%204) |
+| **Semester 5** | AI, Compiler Construction, Web Engineering, Software Design, DB-II | AI Lab, Compiler Lab | [Open Semester 5](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%205) |
+| **Semester 6** | Mobile Computing, ML, Big Data, Info Sec, Parallel Computing | ML Lab, Web Lab | [Open Semester 6](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%206) |
+| **Semester 7** | Cloud Computing, Deep Learning, NLP, HCI, Data Mining | Cloud Lab, Data Mining Lab | [Open Semester 7](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%207) |
+| **Semester 8** | Final Year Project, Professional Practices, Electives | FYP Lab, Research Lab | [Open Semester 8](https://github.com/deviljerry/FAST-NUCES-work/tree/main/Semester%208) |
 
 ---
 
