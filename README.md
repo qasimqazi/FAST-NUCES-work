@@ -223,10 +223,10 @@ For collaborations or permissions, contact:
 
 | **Courses** | **Slides** | **Quizzes** | **Assignments** | **Past Papers** |
 |-------------|------------|-------------|-----------------|-----------------|
-| **Cloud Computing** | [Slides](./Semester-7/Course/Cloud/Slides) | [Quizzes](./Semester-7/Course/Cloud/Quizzes) | [Assignments](./Semester-7/Course/Cloud/Assignments) | [Past Papers](./Semester-7/Course/Cloud/Past-Papers) |
-| **Deep Learning** | [Slides](./Semester-7/Course/DL/Slides) | [Quizzes](./Semester-7/Course/DL/Quizzes) | [Assignments](./Semester-7/Course/DL/Assignments) | [Past Papers](./Semester-7/Course/DL/Past-Papers) |
+| **CS4001-Professional Practices in IT	** | [Slides](./Semester-7/Course/Cloud/Slides) | [Quizzes](./Semester-7/Course/Cloud/Quizzes) | [Assignments](./Semester-7/Course/Cloud/Assignments) | [Past Papers](./Semester-7/Course/Cloud/Past-Papers) |
+| **CS3002-Information Security** | [Slides](./Semester-7/Course/DL/Slides) | [Quizzes](./Semester-7/Course/DL/Quizzes) | [Assignments](./Semester-7/Course/DL/Assignments) | [Past Papers](./Semester-7/Course/DL/Past-Papers) |
 | **NLP** | [Slides](./Semester-7/Course/NLP/Slides) | [Quizzes](./Semester-7/Course/NLP/Quizzes) | [Assignments](./Semester-7/Course/NLP/Assignments) | [Past Papers](./Semester-7/Course/NLP/Past-Papers) |
-| **HCI** | [Slides](./Semester-7/Course/HCI/Slides) | [Quizzes](./Semester-7/Course/HCI/Quizzes) | [Assignments](./Semester-7/Course/HCI/Assignments) | [Past Papers](./Semester-7/Course/HCI/Past-Papers) |
+| **CS4091-Final Year Project – I** | [Slides](./Semester-7/Course/HCI/Slides) | [Quizzes](./Semester-7/Course/HCI/Quizzes) | [Assignments](./Semester-7/Course/HCI/Assignments) | [Past Papers](./Semester-7/Course/HCI/Past-Papers) |
 | **Data Mining** | [Slides](./Semester-7/Course/DataMining/Slides) | [Quizzes](./Semester-7/Course/DataMining/Quizzes) | [Assignments](./Semester-7/Course/DataMining/Assignments) | [Past Papers](./Semester-7/Course/DataMining/Past-Papers) |
 
 ### **Labs – Semester 7**
@@ -241,7 +241,7 @@ For collaborations or permissions, contact:
 
 | **Courses** | **Slides** | **Quizzes** | **Assignments** | **Past Papers** |
 |-------------|------------|-------------|-----------------|-----------------|
-| **Final Year Project** | [Slides](./Semester-8/Course/FYP/Slides) | [Quizzes](./Semester-8/Course/FYP/Quizzes) | [Assignments](./Semester-8/Course/FYP/Assignments) | [Past Papers](./Semester-8/Course/FYP/Past-Papers) |
+| **CS4092-Final Year Project – II** | [Slides](./Semester-8/Course/FYP/Slides) | [Quizzes](./Semester-8/Course/FYP/Quizzes) | [Assignments](./Semester-8/Course/FYP/Assignments) | [Past Papers](./Semester-8/Course/FYP/Past-Papers) |
 | **Professional Practices** | [Slides](./Semester-8/Course/PP/Slides) | [Quizzes](./Semester-8/Course/PP/Quizzes) | [Assignments](./Semester-8/Course/PP/Assignments) | [Past Papers](./Semester-8/Course/PP/Past-Papers) |
 | **Elective 1** | [Slides](./Semester-8/Course/Elective1/Slides) | [Quizzes](./Semester-8/Course/Elective1/Quizzes) | [Assignments](./Semester-8/Course/Elective1/Assignments) | [Past Papers](./Semester-8/Course/Elective1/Past-Papers) |
 | **Elective 2** | [Slides](./Semester-8/Course/Elective2/Slides) | [Quizzes](./Semester-8/Course/Elective2/Quizzes) | [Assignments](./Semester-8/Course/Elective2/Assignments) | [Past Papers](./Semester-8/Course/Elective2/Past-Papers) |
