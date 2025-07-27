@@ -55,7 +55,7 @@ The repository is organized semester-wise, with each semester containing:
 # **🖼 Preview**
 <p align="center">
   <img src="https://img.shields.io/badge/FAST%20NUCES-BSCS-blue?style=for-the-badge&logo=microsoft-academic" />
-  <img src="https://img.shields.io/badge/University%20Journey-2019--2023-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/University%20Journey-2022--2026-green?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/All%20Rights%20Reserved-red?style=for-the-badge&logo=security" />
 </p>
 
